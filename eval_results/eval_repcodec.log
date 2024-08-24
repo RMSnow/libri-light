@@ -1,0 +1,130 @@
+(amphion) xueyao@cr1-p548xlarge-6:~/workspace/libri-light/eval$ sh run_abx.sh 
+Building the input features... 
+100% |#################################################################################################################|
+...done
+Computing ABX within speakers...
+100% |#################################################################################################################|
+...done. ABX within : 0.12663978338241577
+Computing ABX across speakers...
+100% |#################################################################################################################|
+...done. ABX across : 0.1422184556722641
+Traceback (most recent call last):
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 207, in <modu
+le>                           
+    main(args)
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 194, in main
+    out_dir.mkdir(exist_ok=True)
+  File "/data/home/xueyao/miniconda3/envs/amphion/lib/python3.9/pathlib.py", line 1323, in mkdir
+    self._accessor.mkdir(self, mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/data/home/xueyao/workspace/libri-light/eval_results/repcodec/c
+32'                           
+Building the input features... 
+100% |#################################################################################################################|
+...done
+Computing ABX within speakers...
+100% |#################################################################################################################|
+...done. ABX within : 0.12992648780345917
+Computing ABX across speakers...
+100% |#################################################################################################################|
+...done. ABX across : 0.14891964197158813
+Traceback (most recent call last):
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 207, in <modu
+le>                           
+    main(args)
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 194, in main
+    out_dir.mkdir(exist_ok=True)
+  File "/data/home/xueyao/miniconda3/envs/amphion/lib/python3.9/pathlib.py", line 1323, in mkdir
+    self._accessor.mkdir(self, mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/data/home/xueyao/workspace/libri-light/eval_results/repcodec/c
+64'                           
+Building the input features...                                                                                          
+100% |#################################################################################################################|
+...done                                                                                                                 
+Computing ABX within speakers...                                                                                        
+100% |#################################################################################################################|
+...done. ABX within : 0.1274118423461914                                                                                
+Computing ABX across speakers...                                                                                        
+100% |#################################################################################################################|
+...done. ABX across : 0.14791947603225708                                                                               
+Traceback (most recent call last):                                                                                      
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 207, in <modu
+le>                                                                                                                     
+    main(args)                                                                                                          
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 194, in main 
+    out_dir.mkdir(exist_ok=True)                                                                                        
+  File "/data/home/xueyao/miniconda3/envs/amphion/lib/python3.9/pathlib.py", line 1323, in mkdir                        
+    self._accessor.mkdir(self, mode)                                                                                    
+FileNotFoundError: [Errno 2] No such file or directory: '/data/home/xueyao/workspace/libri-light/eval_results/repcodec/c
+128'                                                                                                                    
+Building the input features...                                                                                          
+100% |#################################################################################################################|
+...done                                                                                                                 
+Computing ABX within speakers...                                                                                        
+100% |#################################################################################################################|
+...done. ABX within : 0.1269012689590454                                                                                
+Computing ABX across speakers...                                                                                        
+100% |#################################################################################################################|
+...done. ABX across : 0.14557760953903198     
+Building the input features...                                                                                          
+100% |#################################################################################################################|
+...done                                                                                                                 
+Computing ABX within speakers...                                                                                        
+100% |#################################################################################################################|
+...done. ABX within : 0.1269012689590454                                                                                
+Computing ABX across speakers...                                                                                        
+100% |#################################################################################################################|
+...done. ABX across : 0.14557760953903198                                                                               
+Traceback (most recent call last):                                                                                      
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 207, in <modu
+le>                                                                                                                     
+    main(args)                                                                                                          
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 194, in main 
+    out_dir.mkdir(exist_ok=True)                                                                                        
+  File "/data/home/xueyao/miniconda3/envs/amphion/lib/python3.9/pathlib.py", line 1323, in mkdir                        
+    self._accessor.mkdir(self, mode)                                                                                    
+FileNotFoundError: [Errno 2] No such file or directory: '/data/home/xueyao/workspace/libri-light/eval_results/repcodec/c
+256'                          
+Building the input features... 
+100% |#################################################################################################################|
+...done
+Computing ABX within speakers...
+100% |#################################################################################################################|
+...done. ABX within : 0.11067157238721848
+Computing ABX across speakers...
+100% |#################################################################################################################|
+...done. ABX across : 0.1298239529132843
+Traceback (most recent call last):
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 207, in <modu
+[0] 1:[tmux]*                        
+Building the input features...                                                                                          
+100% |#################################################################################################################|
+...done
+Computing ABX within speakers...
+100% |#################################################################################################################|
+...done. ABX within : 0.11067157238721848
+Computing ABX across speakers...
+100% |#################################################################################################################|
+...done. ABX across : 0.1298239529132843
+Traceback (most recent call last):
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 207, in <modu
+le>                           
+    main(args)
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 194, in main
+    out_dir.mkdir(exist_ok=True)
+  File "/data/home/xueyao/miniconda3/envs/amphion/lib/python3.9/pathlib.py", line 1323, in mkdir
+    self._accessor.mkdir(self, mode)
+FileNotFoundError: [Errno 2] No such file or directory: '/data/home/xueyao/workspace/libri-light/eval_results/repcodec/c
+512'                          
+Building the input features... 
+100% |#################################################################################################################|
+...done
+Computing ABX within speakers...
+100% |#################################################################################################################|
+...done. ABX within : 0.10007913410663605
+Computing ABX across speakers...
+100% |#################################################################################################################|
+...done. ABX across : 0.11770176142454147
+Traceback (most recent call last):
+  File "/opt/hpcaas/.mounts/fs-0301404b74c8d22fd/home/xueyao/workspace/libri-light/eval/eval_ABX.py", line 207, in <modu
+le>                           
+    main(args)
