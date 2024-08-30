@@ -1,0 +1,13 @@
+{
+  "path_data": "/fsx-project/xueyao/data/hubert_of_librilight_eval/12",
+  "path_item_file": "/data/home/xueyao/workspace/dataset/ABX_data/dev-clean.item",
+  "path_checkpoint": null,
+  "file_extension": ".pt",
+  "feature_size": 0.02,
+  "cuda": false,
+  "mode": "all",
+  "distance_mode": "cosine",
+  "max_size_group": 10,
+  "max_x_across": 5,
+  "out": "/data/home/xueyao/workspace/libri-light/eval_results/hubert/12"
+}
